@@ -1,0 +1,12 @@
+# Archivos generados por Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos temporales
+*.log
